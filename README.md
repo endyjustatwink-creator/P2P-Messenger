@@ -1,11 +1,7 @@
-# FTP-Messenger
-The world's first messenger that works on the protocol FTP.
+# P2P Messenger
+A messenger that requires an HTTP server from each user for communication.
 
-In fact, FTP is not intended for sending messages. But this will not prevent this idea from being realized.
+# Steps of Messenger's history:
 
-There are two versions of this messenger: Simple and Pro. Both versions have their pros and cons.
-
-FTP Messenger Simple
-- Uses less ROM
-- Works on Python or JS
-- No interface (console is used as interface)
+1. Idea (September 2025)
+2. First version (** December 2025)
