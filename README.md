@@ -1,4 +1,4 @@
-<h1 style="text-align: center;">P2P Messanger</h1>
+<h1 style="text-align: center">P2P Messanger</h1>
 
 *Do you want to talk to friend privately? We're for you! Our design is very easy to understand. Even 70-year-old human can install and use messanger.*
 
