@@ -1,6 +1,6 @@
 <div align="center">
 
-![License: GPL v3](https://img.shields.io/badge/license-GPL%20v3-blue) ![for Android](https://badgen.net/badge/icon/Android?icon=android&label)
+![License: GPL v3](https://img.shields.io/badge/license-GPL%20v3-blue) ![for Android](https://badgen.net/badge/icon/Android?icon=android&label) ![idk](https://camo.githubusercontent.com/e99600a5d6bc72fb7f0f432fcefea761215fcac2865c0f23afd29ae986049948/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f76657273696f6e2d312e322e332d626c7565)
 
 # P2P Messanger
 
