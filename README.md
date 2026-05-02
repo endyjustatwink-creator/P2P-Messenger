@@ -7,6 +7,6 @@ Visit our [wiki](https://github.com/endyjustatwink-creator/P2P-Messenger.wiki.gi
 
 ## Installation
 1. Download last stable version of P2P MacroDroid Messanger
-2. Download "MacroDroid" from Google Play or another store
+2. Download "[MacroDroid](https://play.google.com/store/apps/details?id=com.arlosoft.macrodroid)" from Google Play or another store
 3. Import P2P Messanger to MacroDroid
 4. Done!
