@@ -1,8 +1,12 @@
-# P2P Messanger
+<div align="center">
 
 ![License: GPL v3](https://img.shields.io/badge/license-GPL%20v3-blue)
 
+# P2P Messanger
+
 *Do you want to talk to friend privately? We're for you! P2P MacroDroid Messanger is new gen messenger. Our messenger is open-source, private, customizable, and unique!*
+
+</div>
 
 ## Documentation
 Visit our [wiki](https://github.com/endyjustatwink-creator/P2P-Messenger.wiki.git) for see documentation
