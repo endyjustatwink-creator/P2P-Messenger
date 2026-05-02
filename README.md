@@ -1,6 +1,6 @@
 <div align="center">
 
-![License: GPL v3](https://img.shields.io/badge/license-GPL%20v3-blue)
+![License: GPL v3](https://img.shields.io/badge/license-GPL%20v3-blue) ![for Android](https://badgen.net/badge/icon/Android?icon=android&label)
 
 # P2P Messanger
 
