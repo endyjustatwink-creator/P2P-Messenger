@@ -1,6 +1,7 @@
 <div align="center">
 
-![License: GPL v3](https://img.shields.io/badge/license-GPL%20v3-blue) ![for Android](https://badgen.net/badge/icon/Android?icon=android&label) ![Static Badge](https://img.shields.io/badge/MacroDroid?style=plastic&logo=Android&logoColor=%2300AA00)
+![License: GPL v3](https://img.shields.io/badge/license-GPL%20v3-blue) ![for Android](https://badgen.net/badge/icon/Android?icon=android&label) ![Based on MacroDroid](https://img.shields.io/badge/MacroDroid-2A4163?style=flat&logo=Android&logoColor=%2300AA00&logoSize=3&label=Based%20on&labelColor=%23333333)
+
 
 
 # P2P Messanger
