@@ -1,6 +1,6 @@
 <h1 style="text-align: center">P2P Messanger</h1>
 
-*Do you want to talk to friend privately? We're for you! Our design is very easy to understand. Even 70-year-old human can install and use messanger.*
+*Do you want to talk to friend privately? We're for you! P2P MacroDroid Messanger is new gen messenger. Our messenger is open-source, private, customizable, and unique!*
 
 ## Documentation
 Visit our [wiki](https://github.com/endyjustatwink-creator/P2P-Messenger.wiki.git) for see documentation
