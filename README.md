@@ -1,4 +1,5 @@
-<h1 style="text-align: center">P2P Messanger</h1>
+# P2P Messanger
+
 ![License: GPL v3](https://img.shields.io/badge/license-GPL%20v3-blue)
 
 *Do you want to talk to friend privately? We're for you! P2P MacroDroid Messanger is new gen messenger. Our messenger is open-source, private, customizable, and unique!*
